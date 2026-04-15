@@ -1,5 +1,4 @@
 *.directory
 *.env
-*training.1600000.processed.noemoticon.csv
 *.venv
-*sentiment140_cleaned.csv
+*.csv
