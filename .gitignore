@@ -2,3 +2,37 @@
 *.env
 *.venv
 *.csv
+*.ipynb_checkpoints
+*.log
+*.json
+*/logs/*
+*./wantdb
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Données lourdes (CSV volumineux)
+asset/training.1600000.processed.noemoticon.csv
+
+# Modèles entraînés (souvent trop lourds pour Git)
+#model/keras/
+#model/pkl/
+#*.keras
+#*.pkl
+#*.h5
+
+# Environnements virtuels
+venv/
+venv311/
+.venv/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter outputs déjà dans .gitignore mais à confirmer
+*.ipynb_checkpoints

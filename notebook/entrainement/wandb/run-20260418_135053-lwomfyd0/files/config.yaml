@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.26.0
+        e:
+            chq83gdymtyd8p6k5j89bn7ddhid39p4:
+                codePath: notebook/entrainement/EntrainementVisualisation.ipynb
+                cpu_count: 6
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "511793483776"
+                        used: "33807769600"
+                email: tomwilkwilk@gmail.com
+                executable: /home/snowgou/EPSI/M1/IA/AtelierDeepLearning/Code/venv/bin/python3
+                git:
+                    commit: c765b8d9017ad28445589826ef9adb236e254a6a
+                    remote: git@github.com:TomWilkRavoux/DeepLearning.git
+                host: snowgou-zenbookux425qaum425qa
+                memory:
+                    total: "16123768832"
+                os: Linux-6.19.11-zen1-1-zen-x86_64-with-glibc2.43
+                program: notebook/entrainement/EntrainementVisualisation.ipynb
+                python: CPython 3.12.13
+                root: /home/snowgou/EPSI/M1/IA/AtelierDeepLearning/Code/notebook/entrainement
+                startedAt: "2026-04-18T11:50:53.522952Z"
+                writerId: chq83gdymtyd8p6k5j89bn7ddhid39p4
+        m: []
+        python_version: 3.12.13
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 33
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 33
+                - 53
+            "3":
+                - 2
+                - 3
+                - 8
+                - 62
+            "4": 3.12.13
+            "5": 0.26.0
+            "8":
+                - 1
+            "10":
+                - 9
+                - 17
+            "12": 0.26.0
+            "13": linux-x86_64
